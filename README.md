@@ -12,6 +12,9 @@ From my **First Year onwards**, I actively stepped beyond classrooms and into re
 * 🏆 **Selected for Round 2 – Smart India Hackathon (SIH)**
 * 🥇 **Rank 4 – Fintellect Article Writing Competition**
 
+  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/0ace2d2b-77fe-4f60-a59b-ddca78e2c064" />
+
+
   * Conducted by Indian Institute of Foreign Trade, New Delhi
   * Organized through Unstop
 * 🏅 **Top 10 Position – Commercio Artikel**
@@ -19,6 +22,10 @@ From my **First Year onwards**, I actively stepped beyond classrooms and into re
   * Hosted by Indian Institute of Foreign Trade
 * 🎯 Participated in **15+ National-Level Competitions** via Unstop
 * 💡 Actively engaged in multiple hackathons focusing on problem-solving, innovation, and teamwork
+
+
+  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/218c6a71-daa7-4e76-a9ce-4565fe8e8abf" />
+
 
 ---
 
